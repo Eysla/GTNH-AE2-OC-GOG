@@ -59,7 +59,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 ### OC:
 
 1. Build the computer with specs above
-2. Run `wget https://raw.githubusercontent.com/Eysla/GTNH-AE2-OC-GOG/oc/main/setup.lua && setup`
+2. Run `wget https://raw.githubusercontent.com/Eysla/GTNH-AE2-OC-GOG/main/oc/main/setup.lua && setup`
 3. Copy `env.example.lua` to `env.lua` and fill in the details
     - `serverUrl` is the url of
     - `secret` is the secret from the web server
